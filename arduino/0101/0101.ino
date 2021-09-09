@@ -14,7 +14,7 @@ byte ip[] = { 192, 168, 10, 30 };
 byte gateway[] = { 192, 168, 10, 1 };
 byte subnet[] = { 255, 255, 255, 0 };
 EthernetClient client;
-char server[] = "home.cs20710.tmweb.ru"; // РёРјСЏ РІР°С€РµРіРѕ СЃРµСЂРІРµСЂР°  www.arduino.ru
+char server[] = "home.cs20710"; // РёРјСЏ РІР°С€РµРіРѕ СЃРµСЂРІРµСЂР°  www.arduino.ru
 
 int buff=0;
 int h;                                    // Р—РЅР°С‡РµРЅРёРµ С‚РµРјРїРµСЂР°С‚СѓСЂС‹
@@ -60,7 +60,7 @@ void loop()
     Serial.println(Ethernet.localIP());
     
     client.print("GET /add_data.php?");
-    client.print("paswd=090479"); // РЎРїРµС†РёР°Р»СЊРЅС‹Р№ РєРѕРґ, РЅР°РїСЂРёРјРµСЂ asREb25C
+    client.print("paswd=*****************************"); // РЎРїРµС†РёР°Р»СЊРЅС‹Р№ РєРѕРґ, РЅР°РїСЂРёРјРµСЂ asREb25C
     client.print("&");
     client.print("temperature=");
     client.print(t);
