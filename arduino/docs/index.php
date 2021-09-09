@@ -1,6 +1,6 @@
 <?php
   if(!empty($_POST['paswd'])){
-     $pass = "090479";
+     $pass = "********************************8";
     if($_POST['paswd']==$pass){
       session_start();
       $_SESSION['access']=true;
