@@ -1,0 +1,15 @@
+C:\Users\mullagalievan\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\mullagalievan\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\mullagalievan\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\APIOServer.CSTools.dll
+C:\Users\mullagalievan\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\OpcNetApi.Com.dll
+C:\Users\mullagalievan\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\OpcNetApi.dll
+C:\Users\mullagalievan\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\mullagalievan\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\Interop.Dwx32.dll
+C:\Users\mullagalievan\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\Interop.OPCAutomation.dll
+C:\Users\mullagalievan\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\Interop.OpcEnumLib.dll
+C:\Users\mullagalievan\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\mullagalievan\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\mullagalievan\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\mullagalievan\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\mullagalievan\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\mullagalievan\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb

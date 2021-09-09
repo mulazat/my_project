@@ -1,0 +1,32 @@
+C:\Users\mullagalievan\Documents\Visual Studio 2010\Projects\ReadValues\WindowsFormsApplication1_opc\bin\Debug\ReadValues.exe.manifest
+C:\Users\mullagalievan\Documents\Visual Studio 2010\Projects\ReadValues\WindowsFormsApplication1_opc\bin\Debug\ReadValues.application
+C:\Users\mullagalievan\Documents\Visual Studio 2010\Projects\ReadValues\WindowsFormsApplication1_opc\bin\Debug\ReadValues.exe
+C:\Users\mullagalievan\Documents\Visual Studio 2010\Projects\ReadValues\WindowsFormsApplication1_opc\obj\x86\Debug\ReadValues.csprojResolveAssemblyReference.cache
+C:\Users\mullagalievan\Documents\Visual Studio 2010\Projects\ReadValues\WindowsFormsApplication1_opc\obj\x86\Debug\Interop.OpcEnumLib.dll
+C:\Users\mullagalievan\Documents\Visual Studio 2010\Projects\ReadValues\WindowsFormsApplication1_opc\obj\x86\Debug\ReadValues.csproj.ResolveComReference.cache
+C:\Users\mullagalievan\Documents\Visual Studio 2010\Projects\ReadValues\WindowsFormsApplication1_opc\obj\x86\Debug\ReadValues.Form1.resources
+C:\Users\mullagalievan\Documents\Visual Studio 2010\Projects\ReadValues\WindowsFormsApplication1_opc\obj\x86\Debug\ReadValues.Properties.Resources.resources
+C:\Users\mullagalievan\Documents\Visual Studio 2010\Projects\ReadValues\WindowsFormsApplication1_opc\obj\x86\Debug\ReadValues.csproj.GenerateResource.Cache
+C:\Users\mullagalievan\Documents\Visual Studio 2010\Projects\ReadValues\WindowsFormsApplication1_opc\obj\x86\Debug\ReadValues.TrustInfo.xml
+C:\Users\mullagalievan\Documents\Visual Studio 2010\Projects\ReadValues\WindowsFormsApplication1_opc\obj\x86\Debug\ReadValues.exe.manifest
+C:\Users\mullagalievan\Documents\Visual Studio 2010\Projects\ReadValues\WindowsFormsApplication1_opc\obj\x86\Debug\ReadValues.application
+C:\Users\mullagalievan\Documents\Visual Studio 2010\Projects\ReadValues\WindowsFormsApplication1_opc\obj\x86\Debug\ReadValues.exe
+C:\Users\mullagalievan\Documents\Visual Studio 2010\Projects\ReadValues\WindowsFormsApplication1_opc\obj\x86\Debug\ReadValues.pdb
+C:\Users\mullagalievan\Documents\Visual Studio 2010\Projects\ReadValues\ReadValues\obj\x86\Debug\Interop.OpcEnumLib.dll
+C:\Users\mullagalievan\Documents\Visual Studio 2010\Projects\ReadValues\ReadValues\obj\x86\Debug\ReadValues.csproj.ResolveComReference.cache
+C:\Users\mullagalievan\Documents\Visual Studio 2010\Projects\ReadValues\ReadValues\obj\x86\Debug\ReadValues.exe
+C:\Users\mullagalievan\Documents\Visual Studio 2010\Projects\ReadValues\ReadValues\obj\x86\Debug\ReadValues.pdb
+C:\Users\mullagalievan\Documents\Visual Studio 2010\Projects\ReadValues\ReadValues\bin\Debug\ReadValues.exe.manifest
+C:\Users\mullagalievan\Documents\Visual Studio 2010\Projects\ReadValues\ReadValues\bin\Debug\ReadValues.application
+C:\Users\mullagalievan\Documents\Visual Studio 2010\Projects\ReadValues\ReadValues\bin\Debug\ReadValues.exe
+C:\Users\mullagalievan\Documents\Visual Studio 2010\Projects\ReadValues\ReadValues\obj\x86\Debug\ReadValues.csprojResolveAssemblyReference.cache
+C:\Users\mullagalievan\Documents\Visual Studio 2010\Projects\ReadValues\ReadValues\obj\x86\Debug\ReadValues.Form1.resources
+C:\Users\mullagalievan\Documents\Visual Studio 2010\Projects\ReadValues\ReadValues\obj\x86\Debug\ReadValues.Properties.Resources.resources
+C:\Users\mullagalievan\Documents\Visual Studio 2010\Projects\ReadValues\ReadValues\obj\x86\Debug\ReadValues.csproj.GenerateResource.Cache
+C:\Users\mullagalievan\Documents\Visual Studio 2010\Projects\ReadValues\ReadValues\obj\x86\Debug\ReadValues.TrustInfo.xml
+C:\Users\mullagalievan\Documents\Visual Studio 2010\Projects\ReadValues\ReadValues\obj\x86\Debug\ReadValues.exe.manifest
+C:\Users\mullagalievan\Documents\Visual Studio 2010\Projects\ReadValues\ReadValues\obj\x86\Debug\ReadValues.application
+C:\Users\mullagalievan\Documents\Visual Studio 2010\Projects\ReadValues\ReadValues\bin\Debug\ReadValues.pdb
+e:\c#\Proects\ReadValues\ReadValues\obj\x86\Debug\ReadValues.csproj.ResolveComReference.cache
+e:\c#\Proects\ReadValues\ReadValues\obj\x86\Debug\ReadValues.exe
+e:\c#\Proects\ReadValues\ReadValues\obj\x86\Debug\ReadValues.pdb

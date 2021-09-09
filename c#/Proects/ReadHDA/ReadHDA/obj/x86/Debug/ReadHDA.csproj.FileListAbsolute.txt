@@ -1,0 +1,14 @@
+C:\Users\mullagalievan\documents\visual studio 2010\Projects\ReadHDA\ReadHDA\bin\Debug\ReadHDA.exe
+C:\Users\mullagalievan\documents\visual studio 2010\Projects\ReadHDA\ReadHDA\bin\Debug\ReadHDA.pdb
+C:\Users\mullagalievan\documents\visual studio 2010\Projects\ReadHDA\ReadHDA\bin\Debug\APIOServer.CSTools.dll
+C:\Users\mullagalievan\documents\visual studio 2010\Projects\ReadHDA\ReadHDA\bin\Debug\OpcDaLib.dll
+C:\Users\mullagalievan\documents\visual studio 2010\Projects\ReadHDA\ReadHDA\bin\Debug\OpcNetApi.Com.dll
+C:\Users\mullagalievan\documents\visual studio 2010\Projects\ReadHDA\ReadHDA\bin\Debug\OpcNetApi.dll
+C:\Users\mullagalievan\documents\visual studio 2010\Projects\ReadHDA\ReadHDA\obj\x86\Debug\ReadHDA.csprojResolveAssemblyReference.cache
+C:\Users\mullagalievan\documents\visual studio 2010\Projects\ReadHDA\ReadHDA\obj\x86\Debug\ReadHDA.Form1.resources
+C:\Users\mullagalievan\documents\visual studio 2010\Projects\ReadHDA\ReadHDA\obj\x86\Debug\ReadHDA.Properties.Resources.resources
+C:\Users\mullagalievan\documents\visual studio 2010\Projects\ReadHDA\ReadHDA\obj\x86\Debug\ReadHDA.csproj.GenerateResource.Cache
+C:\Users\mullagalievan\documents\visual studio 2010\Projects\ReadHDA\ReadHDA\obj\x86\Debug\ReadHDA.exe
+C:\Users\mullagalievan\documents\visual studio 2010\Projects\ReadHDA\ReadHDA\obj\x86\Debug\ReadHDA.pdb
+e:\c#\Proects\ReadHDA\ReadHDA\obj\x86\Debug\ReadHDA.exe
+e:\c#\Proects\ReadHDA\ReadHDA\obj\x86\Debug\ReadHDA.pdb

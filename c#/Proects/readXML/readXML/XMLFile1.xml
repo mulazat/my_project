@@ -1,0 +1,1227 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Item Name="KP_58" Type="Folder" Id="2147502051">
+  <Properties />
+  <Items>
+    <Item Name="AlmHeap" Type="Bool" Id="2147502054">
+      <Properties>
+        <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Прочии аварии" />
+      </Properties>
+      <Items>
+        <Item Name="HART0On" Type="Bool" Id="2147502055">
+          <Properties>
+            <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Наличие соединения по протоколу HART с устройством 0" />   
+              <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6733) ProtocolType=(30) Type=(Protocol)}" />
+          </Properties>
+          <Items />
+        </Item>
+        <Item Name="HART1On" Type="Bool" Id="2147504286">
+          <Properties>
+            <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Наличие соединения по протоколу HART с устройством 1" />
+            <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6734) ProtocolType=(30) Type=(Protocol)}" />
+          </Properties>
+          <Items />
+        </Item>
+        <Item Name="ModbusHARTOn" Type="Bool" Id="2147504287">
+          <Properties>
+            <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Наличие соединения по протоколу Modbus с Hart конвертером" />
+            <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6735) ProtocolType=(30) Type=(Protocol)}" />
+          </Properties>
+          <Items />
+        </Item>
+      </Items>
+    </Item>
+    <Item Name="AlmPLK" Type="Bool" Id="2147502062">
+      <Properties>
+        <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Авария контроллера и модулей" />
+      </Properties>
+      <Items>
+        <Item Name="AlarmMod1" Type="Bool" Id="2147502063">
+          <Properties>
+            <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Ошибка модуля BMX NOR 0200H (шасси 0, поз. 1)" />
+            <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6705) ProtocolType=(30) Type=(Protocol)}" />
+          </Properties>
+          <Items />
+        </Item>
+        <Item Name="AlarmMod2" Type="Bool" Id="2147502064">
+          <Properties>
+            <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Ошибка модуля BMX NOR 0200H (шасси 0, поз. 2)" />
+            <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6706) ProtocolType=(30) Type=(Protocol)}" />
+          </Properties>
+          <Items />
+        </Item>
+        <Item Name="AlarmMod3" Type="Bool" Id="2147502065">
+          <Properties>
+            <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Ошибка модуля BMX NOM 0200.2H (шасси 0, поз. 3)" />
+            <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6707) ProtocolType=(30) Type=(Protocol)}" />
+          </Properties>
+          <Items />
+        </Item>
+        <Item Name="AlarmMod7" Type="Bool" Id="2147502069">
+          <Properties>
+            <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Ошибка модуля BMX DDI 3202K(шасси 0, поз. 7)" />
+            <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6711) ProtocolType=(30) Type=(Protocol)}" />
+          </Properties>
+          <Items />
+        </Item>
+        <Item Name="AlarmMod8" Type="Bool" Id="2147502070">
+          <Properties>
+            <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Ошибка модуля BMX DDI 3202K(шасси 0, поз. 8)" />
+            <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6712) ProtocolType=(30) Type=(Protocol)}" />
+          </Properties>
+          <Items />
+        </Item>
+        <Item Name="AlarmMod9" Type="Bool" Id="2147502071">
+          <Properties>
+            <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Ошибка модуля BMX DDO 1602K(шасси 0, поз. 9)" />
+            <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6713) ProtocolType=(30) Type=(Protocol)}" />
+          </Properties>
+          <Items />
+        </Item>
+        <Item Name="PLKSynch" Type="Bool" Id="2147502075">
+          <Properties>
+            <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. ПЛК отсинхронизирован" />
+            <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6736) ProtocolType=(30) Type=(Protocol)}" />
+          </Properties>
+          <Items />
+        </Item>
+        <Item Name="AlarmMod" Type="Bool" Id="2147504289">
+          <Properties>
+            <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Ошибка модуля BMX P34 2020 (шасси 0, поз. 0)" />
+            <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6704) ProtocolType=(30) Type=(Protocol)}" />
+          </Properties>
+          <Items />
+        </Item>
+      </Items>
+    </Item>
+    <Item Name="AlmSupply" Type="Bool" Id="2147502076">
+      <Properties>
+        <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Авария по питанию" />
+      </Properties>
+      <Items>
+        <Item Name="RezPit" Type="Bool" Id="2147502077">
+          <Properties>
+            <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Авария по питанию" />
+          </Properties>
+          <Items>
+            <Item Name="RezPitGU1" Type="Bool" Id="2147502078">
+              <Properties>
+                <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Переход на питание от ИБП (GU1)" />
+                <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6642) ProtocolType=(30) Type=(Protocol)}" />
+              </Properties>
+              <Items />
+            </Item>
+            <Item Name="RezPit" Type="Bool" Id="2147502079">
+              <Properties>
+                <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Переход на питание от ИБП ПКУ" />
+                <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6700) ProtocolType=(30) Type=(Protocol)}" />
+              </Properties>
+              <Items />
+            </Item>
+            <Item Name="RezPitGU2" Type="Bool" Id="2147504257">
+              <Properties>
+                <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Переход на питание от ИБП (GU2)" />
+                <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6649) ProtocolType=(30) Type=(Protocol)}" />
+              </Properties>
+              <Items />
+            </Item>
+          </Items>
+        </Item>
+        <Item Name="AlarmG1" Type="Bool" Id="2147502080">
+          <Properties>
+            <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Исправность БП 220В/24В (G1)" />
+            <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6640) ProtocolType=(30) Type=(Protocol)}" />
+          </Properties>
+          <Items />
+        </Item>
+        <Item Name="AlarmG2" Type="Bool" Id="2147502081">
+          <Properties>
+            <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58.  Исправность БП 220В/24В (G2)" />
+            <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6647) ProtocolType=(30) Type=(Protocol)}" />
+          </Properties>
+          <Items />
+        </Item>
+        <Item Name="AlarmSU" Type="Bool" Id="2147502082">
+          <Properties>
+            <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Исправность изоляции внешних цепей питания   " />
+            <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6656) ProtocolType=(30) Type=(Protocol)}" />
+          </Properties>
+          <Items />
+        </Item>
+        <Item Name="AlarmULowBat" Type="Bool" Id="2147502084">
+          <Properties>
+            <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. ИБП разряжена (G3)" />
+          </Properties>
+          <Items>
+            <Item Name="AlarmGU1" Type="Bool" Id="2147503470">
+              <Properties>
+                <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Исправность ИБП 24В/24В (GU1)" />
+                <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6641) ProtocolType=(30) Type=(Protocol)}" />
+              </Properties>
+              <Items />
+            </Item>
+            <Item Name="AlarmGU2" Type="Bool" Id="2147504256">
+              <Properties>
+                <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Исправность ИБП 24В/24В (GU2)" />
+                <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6648) ProtocolType=(30) Type=(Protocol)}" />
+              </Properties>
+              <Items />
+            </Item>
+          </Items>
+        </Item>
+        <Item Name="AlarmG4" Type="Bool" Id="2147502085">
+          <Properties>
+            <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Исправность БП 24/24 - G4" />
+            <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6659) ProtocolType=(30) Type=(Protocol)}" />
+          </Properties>
+          <Items />
+        </Item>
+        <Item Name="AlarmG3" Type="Bool" Id="2147502086">
+          <Properties>
+            <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Исправность БП 24/24 - G3" />
+            <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6658) ProtocolType=(30) Type=(Protocol)}" />
+          </Properties>
+          <Items />
+        </Item>
+        <Item Name="AlarmU1" Type="Bool" Id="2147502087">
+          <Properties>
+            <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Наличие напряжения ~~220В на вводе 1   " />
+            <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6646) ProtocolType=(30) Type=(Protocol)}" />
+          </Properties>
+          <Items />
+        </Item>
+        <Item Name="AlarmU2" Type="Bool" Id="2147502088">
+          <Properties>
+            <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Наличие напряжения ~~220В на вводе 2" />
+            <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6653) ProtocolType=(30) Type=(Protocol)}" />
+          </Properties>
+          <Items />
+        </Item>
+        <Item Name="AlarmLEP" Type="Bool" Id="2147502089">
+          <Properties>
+            <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Наличие напряжения вдольтрассовой ЛЭП" />
+            <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6697) ProtocolType=(30) Type=(Protocol)}" />
+          </Properties>
+          <Items />
+        </Item>
+        <Item Name="AlarmU" Type="Bool" Id="2147502090">
+          <Properties>
+            <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Наличие напряжения на СШ" />
+            <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6698) ProtocolType=(30) Type=(Protocol)}" />
+          </Properties>
+          <Items />
+        </Item>
+        <Item Name="AlarmRezPit" Type="Bool" Id="2147502091">
+          <Properties>
+            <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Отключение ИБП от сети электропитания" />
+            <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6699) ProtocolType=(30) Type=(Protocol)}" />
+          </Properties>
+          <Items />
+        </Item>
+        <Item Name="UOnQF" Type="Bool" Id="2147504258">
+          <Properties />
+          <Items>
+            <Item Name="UOnQF2" Type="Bool" Id="2147504259">
+              <Properties>
+                <Property Id="101" Type="String" Value="Наличие напряжения ~~220В после автомата QF2   " />
+                <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6643) ProtocolType=(30) Type=(Protocol)}" />
+              </Properties>
+              <Items />
+            </Item>
+            <Item Name="UOnQF3" Type="Bool" Id="2147504260">
+              <Properties>
+                <Property Id="101" Type="String" Value="Наличие напряжения ~~220В после автомата QF3" />
+                <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6644) ProtocolType=(30) Type=(Protocol)}" />
+              </Properties>
+              <Items />
+            </Item>
+            <Item Name="UOnQF1" Type="Bool" Id="2147504261">
+              <Properties>
+                <Property Id="101" Type="String" Value="Наличие напряжения ~~220В после автомата QF1" />
+                <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6645) ProtocolType=(30) Type=(Protocol)}" />
+              </Properties>
+              <Items />
+            </Item>
+            <Item Name="UOnQF6" Type="Bool" Id="2147504262">
+              <Properties>
+                <Property Id="101" Type="String" Value="Наличие напряжения ~~220В после автомата QF6" />
+                <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6650) ProtocolType=(30) Type=(Protocol)}" />
+              </Properties>
+              <Items />
+            </Item>
+            <Item Name="UOnQF5" Type="Bool" Id="2147504263">
+              <Properties>
+                <Property Id="101" Type="String" Value="Наличие напряжения ~~220В после автомата QF5" />
+                <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6651) ProtocolType=(30) Type=(Protocol)}" />
+              </Properties>
+              <Items />
+            </Item>
+            <Item Name="UOnQF4" Type="Bool" Id="2147504264">
+              <Properties>
+                <Property Id="101" Type="String" Value="Наличие напряжения ~~220В после автомата QF4" />
+                <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6652) ProtocolType=(30) Type=(Protocol)}" />
+              </Properties>
+              <Items />
+            </Item>
+            <Item Name="UOnQF10" Type="Bool" Id="2147504265">
+              <Properties>
+                <Property Id="101" Type="String" Value="Наличие напряжения ~~220В после автомата QF10" />
+                <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6654) ProtocolType=(30) Type=(Protocol)}" />
+              </Properties>
+              <Items />
+            </Item>
+            <Item Name="UOnQF16" Type="Bool" Id="2147504268">
+              <Properties>
+                <Property Id="101" Type="String" Value="Наличие напряжения ~~220В после автомата QF16" />
+                <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6660) ProtocolType=(30) Type=(Protocol)}" />
+              </Properties>
+              <Items />
+            </Item>
+            <Item Name="UOnQF15" Type="Bool" Id="2147504269">
+              <Properties>
+                <Property Id="101" Type="String" Value="Наличие напряжения ~~220В после автомата QF15" />
+                <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6661) ProtocolType=(30) Type=(Protocol)}" />
+              </Properties>
+              <Items />
+            </Item>
+          </Items>
+        </Item>
+        <Item Name="AlarmU24D2" Type="Bool" Id="2147504267">
+          <Properties>
+            <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Наличие напряжения =24В до диода D2 " />
+            <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6657) ProtocolType=(30) Type=(Protocol)}" />
+          </Properties>
+          <Items />
+        </Item>
+        <Item Name="AlarmU24D1" Type="Bool" Id="2147504270">
+          <Properties>
+            <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Наличие напряжения =24В до диода D1" />
+            <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6662) ProtocolType=(30) Type=(Protocol)}" />
+          </Properties>
+          <Items />
+        </Item>
+        <Item Name="AlarmFuse" Type="Bool" Id="2147504271">
+          <Properties>
+            <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Исправность предохранителей   " />
+            <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6663) ProtocolType=(30) Type=(Protocol)}" />
+          </Properties>
+          <Items />
+        </Item>
+      </Items>
+    </Item>
+    <Item Name="AlmFGS" Type="Bool" Id="2147502092">
+      <Properties>
+        <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Пожар, Затопление, Загазованность" />
+      </Properties>
+      <Items>
+        <Item Name="AlarmFire" Type="Bool" Id="2147502093">
+          <Properties>
+            <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Срабатывание пожарной сигнализации в блок-контейнере ПКУ" />
+            <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6683) ProtocolType=(30) Type=(Protocol)}" />
+          </Properties>
+          <Items />
+        </Item>
+      </Items>
+    </Item>
+    <Item Name="AlmT" Type="Bool" Id="2147502094">
+      <Properties>
+        <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Авария по температуре" />
+      </Properties>
+      <Items>
+        <Item Name="AlarmTLow" Type="Bool" Id="2147502095">
+          <Properties>
+            <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Минимальная температура в блок-боксе ПКУ" />
+            <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6686) ProtocolType=(30) Type=(Protocol)}" />
+          </Properties>
+          <Items />
+        </Item>
+        <Item Name="AlarmTHigh" Type="Bool" Id="2147504285">
+          <Properties>
+            <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Максимальная температура в блок-боксе ПКУ" />
+            <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6687) ProtocolType=(30) Type=(Protocol)}" />
+          </Properties>
+          <Items />
+        </Item>
+      </Items>
+    </Item>
+    <Item Name="AlarmSecurity" Type="Bool" Id="2147502096">
+      <Properties>
+        <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Всткытия" />
+      </Properties>
+      <Items>
+        <Item Name="OpenBox" Type="Bool" Id="2147502097">
+          <Properties>
+            <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Дверь ШТМ открыта" />
+            <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6680) ProtocolType=(30) Type=(Protocol)}" />
+          </Properties>
+          <Items />
+        </Item>
+        <Item Name="Open1" Type="Bool" Id="2147502100">
+          <Properties>
+            <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Срабатывание датчика вскрытия колодца К58/1" />
+            <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6672) ProtocolType=(30) Type=(Protocol)}" />
+          </Properties>
+          <Items />
+        </Item>
+        <Item Name="OpenBox 1" Type="Bool" Id="2147504266">
+          <Properties>
+            <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Двери шкафа открыты     " />
+            <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6655) ProtocolType=(30) Type=(Protocol)}" />
+          </Properties>
+          <Items />
+        </Item>
+        <Item Name="Open2" Type="Bool" Id="2147504279">
+          <Properties>
+            <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Срабатывание датчика вскрытия колодца К58/2" />
+            <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6673) ProtocolType=(30) Type=(Protocol)}" />
+          </Properties>
+          <Items />
+        </Item>
+        <Item Name="Open3" Type="Bool" Id="2147504280">
+          <Properties>
+            <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Срабатывание датчика вскрытия колодца В58/1" />
+            <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6674) ProtocolType=(30) Type=(Protocol)}" />
+          </Properties>
+          <Items />
+        </Item>
+        <Item Name="Open4" Type="Bool" Id="2147504281">
+          <Properties>
+            <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Срабатывание датчика вскрытия колодца В58/2" />
+            <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6675) ProtocolType=(30) Type=(Protocol)}" />
+          </Properties>
+          <Items />
+        </Item>
+        <Item Name="OpenOgrSW" Type="Bool" Id="2147504282">
+          <Properties>
+            <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Сигнализация вскрытия калитки ограждения УЗА" />
+            <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6681) ProtocolType=(30) Type=(Protocol)}" />
+          </Properties>
+          <Items />
+        </Item>
+      </Items>
+    </Item>
+    <Item Name="Open" Type="Bool" Id="2147502104">
+      <Properties>
+        <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Сигнализация открытия двери ПКУ" />
+        <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6682) ProtocolType=(30) Type=(Protocol)}" />
+      </Properties>
+      <Items />
+    </Item>
+    <Item Name="Name" Type="String" Id="2147502108">
+      <Properties>
+        <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58" />
+      </Properties>
+      <Items />
+    </Item>
+    <Item Name="StatusContrl" Type="Int4" Id="2147502109">
+      <Properties>
+        <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Состояние режима управления" />
+      </Properties>
+      <Items />
+    </Item>
+    <Item Name="DPS_1" Type="Folder" Id="2147502111">
+      <Properties />
+      <Items>
+        <Item Name="Scr" Type="Bool" Id="2147502112">
+          <Properties>
+            <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Срабатывание датчика прохождения СОД (ОУ) (в колодце К58/2)" />
+          </Properties>
+          <Items>
+            <Item Name="Scr1" Type="Bool" Id="2147502113">
+              <Properties>
+                <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Срабатывание датчика прохождения СОД (колодец К58/2) (ОУ)" />
+                <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6676) ProtocolType=(30) Type=(Protocol)}" />
+              </Properties>
+              <Items />
+            </Item>
+            <Item Name="Scr2" Type="Bool" Id="2147502114">
+              <Properties>
+                <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Срабатывание датчика прохождения СОД (колодец К58/2) (трансмиттер ОУ)" />
+                <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6677) ProtocolType=(30) Type=(Protocol)}" />
+              </Properties>
+              <Items />
+            </Item>
+          </Items>
+        </Item>
+        <Item Name="Name" Type="String" Id="2147502115">
+          <Properties>
+            <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. ДПС-1" />
+          </Properties>
+          <Items />
+        </Item>
+        <Item Name="Neis" Type="Bool" Id="2147502116">
+          <Properties>
+            <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Неисправность датчика прохождения СОД (колодец К58/2)" />
+            <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6678) ProtocolType=(30) Type=(Protocol)}" />
+          </Properties>
+          <Items />
+        </Item>
+        <Item Name="TU" Type="Folder" Id="2147502117">
+          <Properties />
+          <Items>
+            <Item Name="Contrl" Type="Bool" Id="2147502118">
+              <Properties>
+                <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. ТУ: Контроль датчика прохождения СОД (колодец К58/2)   " />
+              </Properties>
+              <Items>
+                <Item Name="wvalue" Type="Bool" Id="2147502119">
+                  <Properties>
+                    <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. ТУ: Контроль датчика прохождения СОД (колодец К58/2)   " />
+                    <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(25146) ProtocolType=(45) Type=(Protocol)}" />
+                  </Properties>
+                  <Items />
+                </Item>
+              </Items>
+            </Item>
+            <Item Name="Deblock" Type="Bool" Id="2147502120">
+              <Properties>
+                <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. ТУ: Деблокировка сигнала датчика прохождения СОД (колодец К58/2)" />
+              </Properties>
+              <Items>
+                <Item Name="wvalue" Type="Bool" Id="2147502121">
+                  <Properties>
+                    <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. ТУ: Деблокировка сигнала датчика прохождения СОД (колодец К58/2)" />
+                    <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(25147) ProtocolType=(45) Type=(Protocol)}" />
+                  </Properties>
+                  <Items />
+                </Item>
+              </Items>
+            </Item>
+          </Items>
+        </Item>
+      </Items>
+    </Item>
+    <Item Name="Win_2" Type="Folder" Id="2147502133">
+      <Properties />
+      <Items>
+        <Item Name="AlarmSink" Type="Bool" Id="2147502134">
+          <Properties>
+            <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Узел запорной арматуры. Затопление колодца К58/2" />
+            <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6665) ProtocolType=(30) Type=(Protocol)}" />
+          </Properties>
+          <Items />
+        </Item>
+      </Items>
+    </Item>
+    <Item Name="Win_3" Type="Folder" Id="2147502135">
+      <Properties />
+      <Items>
+        <Item Name="AlarmSink" Type="Bool" Id="2147502136">
+          <Properties>
+            <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Узел запорной арматуры. Затопление колодца В58/1" />
+            <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6666) ProtocolType=(30) Type=(Protocol)}" />
+          </Properties>
+          <Items />
+        </Item>
+      </Items>
+    </Item>
+    <Item Name="SW_13" Type="Folder" Id="2147502179">
+      <Properties />
+      <Items>
+        <Item Name="StatusContrl" Type="Int4" Id="2147502180">
+          <Properties>
+            <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Задвижка №13. Состояние режима управления" />
+          </Properties>
+          <Items>
+            <Item Name="LoclContrl" Type="Bool" Id="2147502181">
+              <Properties>
+                <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Задвижка №13. Режим управления местный" />
+              </Properties>
+              <Items />
+            </Item>
+            <Item Name="AlarmAll" Type="Bool" Id="2147502182">
+              <Properties>
+                <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Задвижка №13. Авария по управлению, невозможность управления" />
+              </Properties>
+              <Items>
+                <Item Name="NotOpen" Type="Bool" Id="2147502183">
+                  <Properties>
+                    <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Задвижка №13. Невыполнение команды &quot;Открыть&quot;" />
+                    <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6742) ProtocolType=(30) Type=(Protocol)}" />
+                  </Properties>
+                  <Items />
+                </Item>
+                <Item Name="NotClose" Type="Bool" Id="2147502184">
+                  <Properties>
+                    <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Задвижка №13. Невыполнение команды &quot;Закрыть&quot;" />
+                    <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6743) ProtocolType=(30) Type=(Protocol)}" />
+                  </Properties>
+                  <Items />
+                </Item>
+                <Item Name="NotStop" Type="Bool" Id="2147502185">
+                  <Properties>
+                    <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Задвижка №13. Невыполнение команды &quot;Стоп&quot;" />
+                    <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6744) ProtocolType=(30) Type=(Protocol)}" />
+                  </Properties>
+                  <Items />
+                </Item>
+              </Items>
+            </Item>
+            <Item Name="TUPrep" Type="Bool" Id="2147502186">
+              <Properties>
+                <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Задвижка №13. Готовность к телеуправлению" />
+                <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6696) ProtocolType=(30) Type=(Protocol)}" />
+              </Properties>
+              <Items />
+            </Item>
+            <Item Name="DistContrl" Type="Bool" Id="2147502187">
+              <Properties>
+                <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Задвижка №13. Режим управления дистанционный" />
+                <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6695) ProtocolType=(30) Type=(Protocol)}" />
+              </Properties>
+              <Items />
+            </Item>
+          </Items>
+        </Item>
+        <Item Name="Name" Type="String" Id="2147502188">
+          <Properties>
+            <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Задвижка №13" />
+          </Properties>
+          <Items />
+        </Item>
+        <Item Name="Status" Type="Int4" Id="2147502189">
+          <Properties>
+            <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Задвижка №13. Состояние задвижки" />
+          </Properties>
+          <Items>
+            <Item Name="Open" Type="Bool" Id="2147502190">
+              <Properties>
+                <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Задвижка №13. Открыта" />
+                <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6748) ProtocolType=(30) Type=(Protocol)}" />
+              </Properties>
+              <Items />
+            </Item>
+            <Item Name="Close" Type="Bool" Id="2147502191">
+              <Properties>
+                <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Задвижка №13. Закрыта" />
+                <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6750) ProtocolType=(30) Type=(Protocol)}" />
+              </Properties>
+              <Items />
+            </Item>
+            <Item Name="ToOpen" Type="Bool" Id="2147502192">
+              <Properties>
+                <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Задвижка №13. Открывается" />
+                <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6749) ProtocolType=(30) Type=(Protocol)}" />
+              </Properties>
+              <Items />
+            </Item>
+            <Item Name="ToClose" Type="Bool" Id="2147502193">
+              <Properties>
+                <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Задвижка №13. Закрывается" />
+                <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6751) ProtocolType=(30) Type=(Protocol)}" />
+              </Properties>
+              <Items />
+            </Item>
+            <Item Name="Middle" Type="Bool" Id="2147502194">
+              <Properties>
+                <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Задвижка №13. В промежутке" />
+                <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6752) ProtocolType=(30) Type=(Protocol)}" />
+              </Properties>
+              <Items />
+            </Item>
+          </Items>
+        </Item>
+        <Item Name="AlarmSW" Type="Bool" Id="2147502195">
+          <Properties>
+            <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Задвижка №13. Авария задвижки, не приводящая к невозможности управления" />
+          </Properties>
+          <Items>
+            <Item Name="AlarmMufOp" Type="Bool" Id="2147502196">
+              <Properties>
+                <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Задвижка №13. Сработал моментный выключатель открытия" />
+                <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6754) ProtocolType=(30) Type=(Protocol)}" />
+              </Properties>
+              <Items />
+            </Item>
+            <Item Name="AlarmMufCl" Type="Bool" Id="2147502197">
+              <Properties>
+                <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Задвижка №13. Сработал моментный выключатель закрытия" />
+                <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6755) ProtocolType=(30) Type=(Protocol)}" />
+              </Properties>
+              <Items />
+            </Item>
+            <Item Name="AlarmToOpen" Type="Bool" Id="2147502198">
+              <Properties>
+                <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Задвижка №13. Самопроизвольное открытие " />
+                <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6746) ProtocolType=(30) Type=(Protocol)}" />
+              </Properties>
+              <Items />
+            </Item>
+            <Item Name="AlarmToClose" Type="Bool" Id="2147502199">
+              <Properties>
+                <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Задвижка №13. Самопроизвольное закрытие " />
+                <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6747) ProtocolType=(30) Type=(Protocol)}" />
+              </Properties>
+              <Items />
+            </Item>
+            <Item Name="Alarm" Type="Bool" Id="2147502200">
+              <Properties>
+                <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Задвижка №13. Авария задвижки" />
+                <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6753) ProtocolType=(30) Type=(Protocol)}" />
+              </Properties>
+              <Items />
+            </Item>
+            <Item Name="AlarmMuf" Type="Bool" Id="2147504295">
+              <Properties>
+                <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. ВВМО (ТС)/Сработала муфта (ТС) Задвижка №13" />
+                <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6692) ProtocolType=(30) Type=(Protocol)}" />
+              </Properties>
+              <Items />
+            </Item>
+            <Item Name="AlarmPriv" Type="Bool" Id="2147504296">
+              <Properties>
+                <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. ВВМЗ (ТС)/Авария привода (ТС) Задвижка №13" />
+                <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6693) ProtocolType=(30) Type=(Protocol)}" />
+              </Properties>
+              <Items />
+            </Item>
+            <Item Name="AlarmFaultStatusSW" Type="Bool" Id="2147504297">
+              <Properties>
+                <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Задвижка №13. Несанкционированное изменение положения. НИПЗ" />
+                <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6745) ProtocolType=(30) Type=(Protocol)}" />
+              </Properties>
+              <Items />
+            </Item>
+          </Items>
+        </Item>
+        <Item Name="Ucontrol" Type="Bool" Id="2147502201">
+          <Properties>
+            <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Задвижка №13. Наличие напряжения в схеме управления" />
+            <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6741) ProtocolType=(30) Type=(Protocol)}" />
+          </Properties>
+          <Items />
+        </Item>
+        <Item Name="Sim" Type="Bool" Id="2147502202">
+          <Properties>
+            <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Задвижка №13. Включен режим имитации" />
+            <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6740) ProtocolType=(30) Type=(Protocol)}" />
+          </Properties>
+          <Items />
+        </Item>
+        <Item Name="TU" Type="Folder" Id="2147502203">
+          <Properties />
+          <Items>
+            <Item Name="Open" Type="Bool" Id="2147502204">
+              <Properties>
+                <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Задвижка №13. ТУ: Открыть" />
+              </Properties>
+              <Items>
+                <Item Name="wvalue" Type="Bool" Id="2147502205">
+                  <Properties>
+                    <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Задвижка №13. ТУ: Открыть" />
+                    <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(25133) ProtocolType=(45) Type=(Protocol)}" />
+                  </Properties>
+                  <Items />
+                </Item>
+              </Items>
+            </Item>
+            <Item Name="Close" Type="Bool" Id="2147502206">
+              <Properties>
+                <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Задвижка №13. ТУ: Закрыть" />
+              </Properties>
+              <Items>
+                <Item Name="wvalue" Type="Bool" Id="2147502207">
+                  <Properties>
+                    <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Задвижка №13. ТУ: Закрыть" />
+                    <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(25134) ProtocolType=(45) Type=(Protocol)}" />
+                  </Properties>
+                  <Items />
+                </Item>
+              </Items>
+            </Item>
+            <Item Name="Stop" Type="Bool" Id="2147502208">
+              <Properties>
+                <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Задвижка №13. ТУ: Стоп" />
+              </Properties>
+              <Items>
+                <Item Name="wvalue" Type="Bool" Id="2147502209">
+                  <Properties>
+                    <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Задвижка №13. ТУ: Стоп" />
+                    <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(25132) ProtocolType=(45) Type=(Protocol)}" />
+                  </Properties>
+                  <Items />
+                </Item>
+              </Items>
+            </Item>
+            <Item Name="SetTU" Type="Bool" Id="2147502210">
+              <Properties>
+                <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Задвижка №13. ТУ: Подготовка к ТУ " />
+              </Properties>
+              <Items>
+                <Item Name="wvalue" Type="Bool" Id="2147502211">
+                  <Properties>
+                    <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Задвижка №13. ТУ: Подготовка к ТУ" />
+                    <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(25135) ProtocolType=(45) Type=(Protocol)}" />
+                  </Properties>
+                  <Items />
+                </Item>
+              </Items>
+            </Item>
+            <Item Name="Sim" Type="Bool" Id="2147502212">
+              <Properties>
+                <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Задвижка №13. ТУ: Установить режим имитации" />
+              </Properties>
+              <Items>
+                <Item Name="wvalue" Type="Bool" Id="2147502213">
+                  <Properties>
+                    <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Задвижка №13. ТУ: Установить режим имитации" />
+                    <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(25138) ProtocolType=(45) Type=(Protocol)}" />
+                  </Properties>
+                  <Items />
+                </Item>
+              </Items>
+            </Item>
+            <Item Name="ReSim" Type="Bool" Id="2147502214">
+              <Properties>
+                <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Задвижка №13. ТУ: Снять режим имитации" />
+              </Properties>
+              <Items>
+                <Item Name="wvalue" Type="Bool" Id="2147502215">
+                  <Properties>
+                    <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Задвижка №13. ТУ: Снять режим имитации" />
+                    <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(25139) ProtocolType=(45) Type=(Protocol)}" />
+                  </Properties>
+                  <Items />
+                </Item>
+              </Items>
+            </Item>
+            <Item Name="Deblock" Type="Bool" Id="2147502216">
+              <Properties>
+                <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Задвижка №13. ТУ: Деблокировка аварии" />
+              </Properties>
+              <Items>
+                <Item Name="wvalue" Type="Bool" Id="2147502217">
+                  <Properties>
+                    <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Задвижка №13. ТУ: Деблокировка аварии" />
+                    <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(25137) ProtocolType=(45) Type=(Protocol)}" />
+                  </Properties>
+                  <Items />
+                </Item>
+              </Items>
+            </Item>
+            <Item Name="ReSetTU" Type="Bool" Id="2147502218">
+              <Properties>
+                <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Задвижка №13. ТУ: Отменить подготовку к ТУ" />
+              </Properties>
+              <Items>
+                <Item Name="wvalue" Type="Bool" Id="2147502219">
+                  <Properties>
+                    <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Задвижка №13. ТУ: Отменить подготовку к ТУ" />
+                    <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(25136) ProtocolType=(45) Type=(Protocol)}" />
+                  </Properties>
+                  <Items />
+                </Item>
+              </Items>
+            </Item>
+          </Items>
+        </Item>
+        <Item Name="Pout" Type="Float" Id="2147502220">
+          <Properties>
+            <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Давление нефти в нефтепроводе после задвижки №13" />
+            <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(20777) ProtocolType=(35) Type=(Protocol) DeadBand=(0) DecimalPoint=(0) Signed=(False)}" />
+          </Properties>
+          <Items />
+        </Item>
+        <Item Name="ModeAlarmStatusSWOn" Type="Bool" Id="2147504288">
+          <Properties>
+            <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Задвижка №13. Режим определения самохода включен (1 - да, 0 - нет)" />
+            <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6739) ProtocolType=(30) Type=(Protocol)}" />
+          </Properties>
+          <Items />
+        </Item>
+        <Item Name="Diagnostics" Type="Folder" Id="2147504290">
+          <Properties />
+          <Items>
+            <Item Name="KVO" Type="Bool" Id="2147504291">
+              <Properties>
+                <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. КВО замкнут (ТС) Задвижка №13" />
+                <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6688) ProtocolType=(30) Type=(Protocol)}" />
+              </Properties>
+              <Items />
+            </Item>
+            <Item Name="KVZ" Type="Bool" Id="2147504292">
+              <Properties>
+                <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. КВЗ замкнут (ТС) Задвижка №13" />
+                <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6689) ProtocolType=(30) Type=(Protocol)}" />
+              </Properties>
+              <Items />
+            </Item>
+            <Item Name="MPO" Type="Bool" Id="2147504293">
+              <Properties>
+                <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. МПО включен (ТС) Задвижка №13" />
+                <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6690) ProtocolType=(30) Type=(Protocol)}" />
+              </Properties>
+              <Items />
+            </Item>
+            <Item Name="MPZ" Type="Bool" Id="2147504294">
+              <Properties>
+                <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. МПЗ включен (ТС) Задвижка №13" />
+                <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6691) ProtocolType=(30) Type=(Protocol)}" />
+              </Properties>
+              <Items />
+            </Item>
+            <Item Name="Status_Int" Type="Float" Id="2147504310">
+              <Properties>
+                <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Задвижка №13. Состояние в формате int" />
+                <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(20793) ProtocolType=(35) Type=(Protocol) DeadBand=(0) DecimalPoint=(0) Signed=(False)}" />
+              </Properties>
+              <Items />
+            </Item>
+            <Item Name="Err" Type="Float" Id="2147504311">
+              <Properties>
+                <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Задвижка №13. Диагностическая ошибка по задвижке" />
+                <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(20794) ProtocolType=(35) Type=(Protocol) DeadBand=(0) DecimalPoint=(0) Signed=(False)}" />
+              </Properties>
+              <Items />
+            </Item>
+            <Item Name="TimeToMoveOpen" Type="Float" Id="2147504312">
+              <Properties>
+                <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Задвижка №13. Время полного открытия" />
+                <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(20795) ProtocolType=(35) Type=(Protocol) DeadBand=(0) DecimalPoint=(0) Signed=(False)}" />
+              </Properties>
+              <Items />
+            </Item>
+            <Item Name="TimeToMoveClose" Type="Float" Id="2147504313">
+              <Properties>
+                <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Задвижка №13. Время полного закрытия" />
+                <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(20796) ProtocolType=(35) Type=(Protocol) DeadBand=(0) DecimalPoint=(0) Signed=(False)}" />
+              </Properties>
+              <Items />
+            </Item>
+            <Item Name="TimeToOpen" Type="Float" Id="2147504314">
+              <Properties>
+                <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Задвижка №13. Время на появления сигнала &quot;открывается&quot;" />
+                <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(20797) ProtocolType=(35) Type=(Protocol) DeadBand=(0) DecimalPoint=(0) Signed=(False)}" />
+              </Properties>
+              <Items />
+            </Item>
+            <Item Name="TimeToClose" Type="Float" Id="2147504315">
+              <Properties>
+                <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Задвижка №13. Время на появления сигнала &quot;закрывается&quot;" />
+                <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(20798) ProtocolType=(35) Type=(Protocol) DeadBand=(0) DecimalPoint=(0) Signed=(False)}" />
+              </Properties>
+              <Items />
+            </Item>
+            <Item Name="TimeToStop" Type="Float" Id="2147504316">
+              <Properties>
+                <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Задвижка №13. Время на удержания команды &quot;стоп&quot;" />
+                <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(20799) ProtocolType=(35) Type=(Protocol) DeadBand=(0) DecimalPoint=(0) Signed=(False)}" />
+              </Properties>
+              <Items />
+            </Item>
+            <Item Name="TimeToTUPrep" Type="Float" Id="2147504317">
+              <Properties>
+                <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Задвижка №13. Время на удержание активной &quot;подготовки к ТУ&quot;" />
+                <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(20800) ProtocolType=(35) Type=(Protocol) DeadBand=(0) DecimalPoint=(0) Signed=(False)}" />
+              </Properties>
+              <Items />
+            </Item>
+            <Item Name="TimeToMoveSim" Type="Float" Id="2147504318">
+              <Properties>
+                <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Задвижка №13. Время полного хода в режиме имитации" />
+                <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(20801) ProtocolType=(35) Type=(Protocol) DeadBand=(0) DecimalPoint=(0) Signed=(False)}" />
+              </Properties>
+              <Items />
+            </Item>
+            <Item Name="TimeToMP" Type="Float" Id="2147504319">
+              <Properties>
+                <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Задвижка №13.  Время на появления МПО/МПЗ (то что притянулся пускатель)" />
+                <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(20802) ProtocolType=(35) Type=(Protocol) DeadBand=(0) DecimalPoint=(0) Signed=(False)}" />
+              </Properties>
+              <Items />
+            </Item>
+          </Items>
+        </Item>
+        <Item Name="Pin" Type="Float" Id="2147504307">
+          <Properties>
+            <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Давление нефти в нефтепроводе до задвижки №13" />
+            <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(20776) ProtocolType=(35) Type=(Protocol) DeadBand=(0) DecimalPoint=(0) Signed=(False)}" />
+          </Properties>
+          <Items />
+        </Item>
+        <Item Name="ClosePrc" Type="Float" Id="2147504308">
+          <Properties>
+            <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Задвижка №13. Положение затвора (процент закрытия)" />
+            <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(20782) ProtocolType=(35) Type=(Protocol) DeadBand=(0) DecimalPoint=(0) Signed=(False)}" />
+          </Properties>
+          <Items />
+        </Item>
+        <Item Name="TR" Type="Folder" Id="2147504323">
+          <Properties />
+          <Items>
+            <Item Name="TimeToMoveOpen" Type="Int4" Id="2147504324">
+              <Properties>
+                <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Задание уставки. Задвижка №13. Время полного открытия" />
+                <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(28762) ProtocolType=(50) Type=(DeliveryStatus) DeadBand=(0)}" />
+              </Properties>
+              <Items>
+                <Item Name="wvalue" Type="Float" Id="2147504325">
+                  <Properties>
+                    <Property Id="101" Type="String" Value="ТР: Задвижка №13. Время полного открытия" />
+                    <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(28762) ProtocolType=(50) Type=(Protocol) DeadBand=(0)}" />
+                  </Properties>
+                  <Items />
+                </Item>
+              </Items>
+            </Item>
+            <Item Name="TimeToMoveClose" Type="Int4" Id="2147504328">
+              <Properties>
+                <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Задание уставки. Задвижка №13. Время полного закрытия" />
+                <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(28763) ProtocolType=(50) Type=(DeliveryStatus) DeadBand=(0)}" />
+              </Properties>
+              <Items>
+                <Item Name="wvalue" Type="Float" Id="2147504329">
+                  <Properties>
+                    <Property Id="101" Type="String" Value="ТР: Задвижка №13. Время полного закрытия" />
+                    <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(28763) ProtocolType=(50) Type=(Protocol) DeadBand=(0)}" />
+                  </Properties>
+                  <Items />
+                </Item>
+              </Items>
+            </Item>
+            <Item Name="TimeToOpen" Type="Int4" Id="2147504330">
+              <Properties>
+                <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Задание уставки. Задвижка №13. Время на появления сигнала &quot;открывается&quot;" />
+                <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(28764) ProtocolType=(50) Type=(DeliveryStatus) DeadBand=(0)}" />
+              </Properties>
+              <Items>
+                <Item Name="wvalue" Type="Float" Id="2147504331">
+                  <Properties>
+                    <Property Id="101" Type="String" Value="ТР: Задвижка №13. Время на появления сигнала &quot;открывается&quot;" />
+                    <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(28764) ProtocolType=(50) Type=(Protocol) DeadBand=(0)}" />
+                  </Properties>
+                  <Items />
+                </Item>
+              </Items>
+            </Item>
+            <Item Name="TimeToClose" Type="Int4" Id="2147504332">
+              <Properties>
+                <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Задание уставки. Задвижка №13. Время на появления сигнала &quot;закрывается&quot;" />
+                <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(28765) ProtocolType=(50) Type=(DeliveryStatus) DeadBand=(0)}" />
+              </Properties>
+              <Items>
+                <Item Name="wvalue" Type="Float" Id="2147504333">
+                  <Properties>
+                    <Property Id="101" Type="String" Value="ТР: Задвижка №13. Время на появления сигнала &quot;закрывается&quot;" />
+                    <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(28765) ProtocolType=(50) Type=(Protocol) DeadBand=(0)}" />
+                  </Properties>
+                  <Items />
+                </Item>
+              </Items>
+            </Item>
+            <Item Name="TimeToStop" Type="Int4" Id="2147504334">
+              <Properties>
+                <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Задание уставки. Задвижка №13. Время на удержания команды &quot;стоп&quot;" />
+                <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(28766) ProtocolType=(50) Type=(DeliveryStatus) DeadBand=(0)}" />
+              </Properties>
+              <Items>
+                <Item Name="wvalue" Type="Float" Id="2147504335">
+                  <Properties>
+                    <Property Id="101" Type="String" Value="ТР: Задвижка №13. Время на удержания команды &quot;стоп&quot;" />
+                    <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(28766) ProtocolType=(50) Type=(Protocol) DeadBand=(0)}" />
+                  </Properties>
+                  <Items />
+                </Item>
+              </Items>
+            </Item>
+            <Item Name="TimeToTUPrep" Type="Int4" Id="2147504336">
+              <Properties>
+                <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Задание уставки. Задвижка №13. Время на удержание активной &quot;подготовки к ТУ&quot;" />
+                <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(28767) ProtocolType=(50) Type=(DeliveryStatus) DeadBand=(0)}" />
+              </Properties>
+              <Items>
+                <Item Name="wvalue" Type="Float" Id="2147504337">
+                  <Properties>
+                    <Property Id="101" Type="String" Value="ТР: Задвижка №13. Время на удержание активной &quot;подготовки к ТУ&quot;" />
+                    <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(28767) ProtocolType=(50) Type=(Protocol) DeadBand=(0)}" />
+                  </Properties>
+                  <Items />
+                </Item>
+              </Items>
+            </Item>
+            <Item Name="TimeToMoveSim" Type="Int4" Id="2147504338">
+              <Properties>
+                <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Задание уставки. Задвижка №13. Время полного хода в режиме имитации" />
+                <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(28768) ProtocolType=(50) Type=(DeliveryStatus) DeadBand=(0)}" />
+              </Properties>
+              <Items>
+                <Item Name="wvalue" Type="Float" Id="2147504339">
+                  <Properties>
+                    <Property Id="101" Type="String" Value="ТР: Задвижка №13. Время полного хода в режиме имитации" />
+                    <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(28768) ProtocolType=(50) Type=(Protocol) DeadBand=(0)}" />
+                  </Properties>
+                  <Items />
+                </Item>
+              </Items>
+            </Item>
+            <Item Name="TimeToMP" Type="Int4" Id="2147504340">
+              <Properties>
+                <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Задание уставки. Задвижка №13. Время на появления МПО/МПЗ (то что притянулся пускатель)" />
+                <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(28769) ProtocolType=(50) Type=(DeliveryStatus) DeadBand=(0)}" />
+              </Properties>
+              <Items>
+                <Item Name="wvalue" Type="Float" Id="2147504341">
+                  <Properties>
+                    <Property Id="101" Type="String" Value="ТР: Задвижка №13. Время на появления МПО/МПЗ (то что притянулся пускатель)" />
+                    <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(28769) ProtocolType=(50) Type=(Protocol) DeadBand=(0)}" />
+                  </Properties>
+                  <Items />
+                </Item>
+              </Items>
+            </Item>
+          </Items>
+        </Item>
+      </Items>
+    </Item>
+    <Item Name="SKZ_1" Type="Folder" Id="2147502221">
+      <Properties />
+      <Items>
+        <Item Name="Current" Type="Float" Id="2147502222">
+          <Properties>
+            <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Сила тока СКЗ" />
+            <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(20779) ProtocolType=(35) Type=(Protocol) DeadBand=(0) DecimalPoint=(0) Signed=(False)}" />
+          </Properties>
+          <Items />
+        </Item>
+        <Item Name="U" Type="Float" Id="2147502223">
+          <Properties>
+            <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Напряжение СКЗ" />
+            <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(20778) ProtocolType=(35) Type=(Protocol) DeadBand=(0) DecimalPoint=(0) Signed=(False)}" />
+          </Properties>
+          <Items />
+        </Item>
+        <Item Name="Voltage" Type="Float" Id="2147502224">
+          <Properties>
+            <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Защитный потенциал труба-земля" />
+            <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(20781) ProtocolType=(35) Type=(Protocol) DeadBand=(0) DecimalPoint=(0) Signed=(False)}" />
+          </Properties>
+          <Items />
+        </Item>
+      </Items>
+    </Item>
+    <Item Name="Voltage" Type="Float" Id="2147502226">
+      <Properties>
+        <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Защитный потенциал &quot;труба-земля&quot;" />
+        <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(20780) ProtocolType=(35) Type=(Protocol) DeadBand=(0) DecimalPoint=(0) Signed=(False)}" />
+      </Properties>
+      <Items />
+    </Item>
+    <Item Name="Tbox" Type="Float" Id="2147502227">
+      <Properties>
+        <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Температура в шкафу ЛТМ   " />
+        <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(20783) ProtocolType=(35) Type=(Protocol) DeadBand=(0) DecimalPoint=(0) Signed=(False)}" />
+      </Properties>
+      <Items />
+    </Item>
+    <Item Name="Win_1" Type="Folder" Id="2147504272">
+      <Properties />
+      <Items>
+        <Item Name="AlarmSink" Type="Bool" Id="2147504273">
+          <Properties>
+            <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Узел запорной арматуры. Затопление колодца К58/1" />
+            <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6664) ProtocolType=(30) Type=(Protocol)}" />
+          </Properties>
+          <Items />
+        </Item>
+      </Items>
+    </Item>
+    <Item Name="Win_4" Type="Folder" Id="2147504274">
+      <Properties />
+      <Items>
+        <Item Name="AlarmSink" Type="Bool" Id="2147504275">
+          <Properties>
+            <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Узел запорной арматуры. Затопление колодца В58/2" />
+            <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6667) ProtocolType=(30) Type=(Protocol)}" />
+          </Properties>
+          <Items />
+        </Item>
+      </Items>
+    </Item>
+    <Item Name="APS_1" Type="Folder" Id="2147504276">
+      <Properties />
+      <Items>
+        <Item Name="StatusContrl" Type="Bool" Id="2147504277">
+          <Properties>
+            <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Линейный АПС №1 Статус" />
+          </Properties>
+          <Items>
+            <Item Name="TUPrep" Type="Bool" Id="2147504278">
+              <Properties>
+                <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Линейный АПС №1 подготовлен к ТУ   " />
+                <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6670) ProtocolType=(30) Type=(Protocol)}" />
+              </Properties>
+              <Items />
+            </Item>
+          </Items>
+        </Item>
+        <Item Name="On" Type="Bool" Id="2147504283">
+          <Properties>
+            <Property Id="101" Type="String" Value="Линейный АПС включен" />
+            <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6684) ProtocolType=(30) Type=(Protocol)}" />
+          </Properties>
+          <Items />
+        </Item>
+        <Item Name="Off" Type="Bool" Id="2147504284">
+          <Properties>
+            <Property Id="101" Type="String" Value="Линейный АПС отключен" />
+            <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(6685) ProtocolType=(30) Type=(Protocol)}" />
+          </Properties>
+          <Items />
+        </Item>
+        <Item Name="TU" Type="Folder" Id="2147504298">
+          <Properties />
+          <Items>
+            <Item Name="On" Type="Bool" Id="2147504299">
+              <Properties>
+                <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. ТУ: АПС-1. Линейный АПС включить   " />
+              </Properties>
+              <Items>
+                <Item Name="wvalue" Type="Bool" Id="2147504300">
+                  <Properties>
+                    <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. ТУ: АПС-1. Линейный АПС включить   " />
+                    <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(25143) ProtocolType=(45) Type=(Protocol)}" />
+                  </Properties>
+                  <Items />
+                </Item>
+              </Items>
+            </Item>
+            <Item Name="SetTU" Type="Bool" Id="2147504303">
+              <Properties>
+                <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. ТУ: Линейный АПС №1 подготовить к ТУ   " />
+              </Properties>
+              <Items>
+                <Item Name="wvalue" Type="Bool" Id="2147504304">
+                  <Properties>
+                    <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. ТУ: Линейный АПС №1 подготовить к ТУ   " />
+                    <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(25144) ProtocolType=(45) Type=(Protocol)}" />
+                  </Properties>
+                  <Items />
+                </Item>
+              </Items>
+            </Item>
+            <Item Name="Off" Type="Bool" Id="2147504305">
+              <Properties>
+                <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. ТУ: АПС-1. Линейный АПС отключить   " />
+              </Properties>
+              <Items>
+                <Item Name="wvalue" Type="Bool" Id="2147504306">
+                  <Properties>
+                    <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. ТУ: АПС-1. Линейный АПС отключить   " />
+                    <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(25145) ProtocolType=(45) Type=(Protocol)}" />
+                  </Properties>
+                  <Items />
+                </Item>
+              </Items>
+            </Item>
+          </Items>
+        </Item>
+      </Items>
+    </Item>
+    <Item Name="Cikle" Type="Float" Id="2147504309">
+      <Properties>
+        <Property Id="101" Type="String" Value="ЛУ Шаим2-Конда. КП-58. Диагностический счетчик ПЛК (счетчик жизни)" />
+        <Property Id="5000" Type="String" Value="{ ModuleId=(LU_IEC-104 Master) Protocol=(IEC) Station=(8) Address=(20792) ProtocolType=(35) Type=(Protocol) DeadBand=(0) DecimalPoint=(0) Signed=(False)}" />
+      </Properties>
+      <Items />
+    </Item>
+  </Items>
+</Item>

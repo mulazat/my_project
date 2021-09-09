@@ -1,0 +1,17 @@
+C:\Users\mullagalievan\documents\visual studio 2010\Projects\readXML\readXML\bin\Debug\readXML.exe
+C:\Users\mullagalievan\documents\visual studio 2010\Projects\readXML\readXML\bin\Debug\readXML.pdb
+C:\Users\mullagalievan\documents\visual studio 2010\Projects\readXML\readXML\obj\x86\Debug\readXML.Form1.resources
+C:\Users\mullagalievan\documents\visual studio 2010\Projects\readXML\readXML\obj\x86\Debug\readXML.Properties.Resources.resources
+C:\Users\mullagalievan\documents\visual studio 2010\Projects\readXML\readXML\obj\x86\Debug\readXML.csproj.GenerateResource.Cache
+C:\Users\mullagalievan\documents\visual studio 2010\Projects\readXML\readXML\obj\x86\Debug\readXML.exe
+C:\Users\mullagalievan\documents\visual studio 2010\Projects\readXML\readXML\obj\x86\Debug\readXML.pdb
+C:\Users\mullagalievan\Documents\Visual Studio 2010\Projects\readXML\readXML\obj\x86\Debug\readXML.csprojResolveAssemblyReference.cache
+e:\c#\Proects\readXML\readXML\obj\x86\Debug\readXML.exe
+e:\c#\Proects\readXML\readXML\obj\x86\Debug\readXML.pdb
+e:\c#\Proects\readXML\readXML\bin\Debug\readXML.exe
+e:\c#\Proects\readXML\readXML\bin\Debug\readXML.pdb
+e:\c#\Proects\readXML\readXML\obj\x86\Debug\ResolveAssemblyReference.cache
+e:\c#\Proects\readXML\readXML\obj\x86\Debug\readXML.Form1.resources
+e:\c#\Proects\readXML\readXML\obj\x86\Debug\readXML.Properties.Resources.resources
+e:\c#\Proects\readXML\readXML\obj\x86\Debug\GenerateResource.read.1.tlog
+e:\c#\Proects\readXML\readXML\obj\x86\Debug\GenerateResource.write.1.tlog

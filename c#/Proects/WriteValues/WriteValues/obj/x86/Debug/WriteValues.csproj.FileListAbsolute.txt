@@ -1,0 +1,14 @@
+C:\Users\mullagalievan\documents\visual studio 2010\Projects\WriteValues\WriteValues\bin\Debug\WriteValues.exe
+C:\Users\mullagalievan\documents\visual studio 2010\Projects\WriteValues\WriteValues\bin\Debug\WriteValues.pdb
+C:\Users\mullagalievan\documents\visual studio 2010\Projects\WriteValues\WriteValues\bin\Debug\APIOServer.CSTools.dll
+C:\Users\mullagalievan\documents\visual studio 2010\Projects\WriteValues\WriteValues\bin\Debug\OpcDaLib.dll
+C:\Users\mullagalievan\documents\visual studio 2010\Projects\WriteValues\WriteValues\bin\Debug\OpcNetApi.Com.dll
+C:\Users\mullagalievan\documents\visual studio 2010\Projects\WriteValues\WriteValues\bin\Debug\OpcNetApi.dll
+C:\Users\mullagalievan\documents\visual studio 2010\Projects\WriteValues\WriteValues\obj\x86\Debug\WriteValues.csprojResolveAssemblyReference.cache
+C:\Users\mullagalievan\documents\visual studio 2010\Projects\WriteValues\WriteValues\obj\x86\Debug\WriteValues.Form1.resources
+C:\Users\mullagalievan\documents\visual studio 2010\Projects\WriteValues\WriteValues\obj\x86\Debug\WriteValues.Properties.Resources.resources
+C:\Users\mullagalievan\documents\visual studio 2010\Projects\WriteValues\WriteValues\obj\x86\Debug\WriteValues.csproj.GenerateResource.Cache
+C:\Users\mullagalievan\documents\visual studio 2010\Projects\WriteValues\WriteValues\obj\x86\Debug\WriteValues.exe
+C:\Users\mullagalievan\documents\visual studio 2010\Projects\WriteValues\WriteValues\obj\x86\Debug\WriteValues.pdb
+e:\c#\Proects\WriteValues\WriteValues\obj\x86\Debug\WriteValues.exe
+e:\c#\Proects\WriteValues\WriteValues\obj\x86\Debug\WriteValues.pdb

@@ -1,0 +1,73 @@
+C:\Users\mullagalievan\documents\visual studio 2010\Projects\WindowsFormsApplication1_opc\WindowsFormsApplication1_opc\obj\x86\Debug\Interop.Dwx32.dll
+C:\Users\mullagalievan\documents\visual studio 2010\Projects\WindowsFormsApplication1_opc\WindowsFormsApplication1_opc\obj\x86\Debug\Interop.OPCAutomation.dll
+C:\Users\mullagalievan\documents\visual studio 2010\Projects\WindowsFormsApplication1_opc\WindowsFormsApplication1_opc\obj\x86\Debug\Interop.OpcEnumLib.dll
+C:\Users\mullagalievan\documents\visual studio 2010\Projects\WindowsFormsApplication1_opc\WindowsFormsApplication1_opc\obj\x86\Debug\WindowsFormsApplication1_opc.csproj.ResolveComReference.cache
+C:\Users\mullagalievan\documents\visual studio 2010\Projects\WindowsFormsApplication1_opc\WindowsFormsApplication1_opc\bin\Debug\WindowsFormsApplication1_opc.exe
+C:\Users\mullagalievan\documents\visual studio 2010\Projects\WindowsFormsApplication1_opc\WindowsFormsApplication1_opc\bin\Debug\WindowsFormsApplication1_opc.pdb
+C:\Users\mullagalievan\documents\visual studio 2010\Projects\WindowsFormsApplication1_opc\WindowsFormsApplication1_opc\bin\Debug\APIOServer.CSTools.dll
+C:\Users\mullagalievan\documents\visual studio 2010\Projects\WindowsFormsApplication1_opc\WindowsFormsApplication1_opc\bin\Debug\OpcNetApi.Com.dll
+C:\Users\mullagalievan\documents\visual studio 2010\Projects\WindowsFormsApplication1_opc\WindowsFormsApplication1_opc\bin\Debug\OpcNetApi.dll
+C:\Users\mullagalievan\documents\visual studio 2010\Projects\WindowsFormsApplication1_opc\WindowsFormsApplication1_opc\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\mullagalievan\documents\visual studio 2010\Projects\WindowsFormsApplication1_opc\WindowsFormsApplication1_opc\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\mullagalievan\documents\visual studio 2010\Projects\WindowsFormsApplication1_opc\WindowsFormsApplication1_opc\obj\x86\Debug\WindowsFormsApplication1_opc.csproj.GenerateResource.Cache
+C:\Users\mullagalievan\documents\visual studio 2010\Projects\WindowsFormsApplication1_opc\WindowsFormsApplication1_opc\obj\x86\Debug\WindowsFormsApplication1_opc.exe
+C:\Users\mullagalievan\documents\visual studio 2010\Projects\WindowsFormsApplication1_opc\WindowsFormsApplication1_opc\obj\x86\Debug\WindowsFormsApplication1_opc.pdb
+C:\Users\mullagalievan\documents\visual studio 2010\Projects\WindowsFormsApplication1_opc\WindowsFormsApplication1_opc\obj\x86\Debug\Interop.OPCAEDUALSOURCELib.dll
+C:\Users\mullagalievan\documents\visual studio 2010\Projects\WindowsFormsApplication1_opc\WindowsFormsApplication1_opc\obj\x86\Debug\WindowsFormsApplication1_opc.csprojResolveAssemblyReference.cache
+c:\c#\Projects\WindowsFormsApplication1_opc\WindowsFormsApplication1_opc\obj\x86\Debug\Interop.Dwx32.dll
+c:\c#\Projects\WindowsFormsApplication1_opc\WindowsFormsApplication1_opc\obj\x86\Debug\Interop.OPCAEDUALSOURCELib.dll
+c:\c#\Projects\WindowsFormsApplication1_opc\WindowsFormsApplication1_opc\obj\x86\Debug\Interop.OPCAutomation.dll
+c:\c#\Projects\WindowsFormsApplication1_opc\WindowsFormsApplication1_opc\obj\x86\Debug\Interop.OpcEnumLib.dll
+c:\c#\Projects\WindowsFormsApplication1_opc\WindowsFormsApplication1_opc\obj\x86\Debug\WindowsFormsApplication1_opc.csproj.ResolveComReference.cache
+c:\c#\Projects\WindowsFormsApplication1_opc\WindowsFormsApplication1_opc\obj\x86\Debug\WindowsFormsApplication1_opc.exe
+c:\c#\Projects\WindowsFormsApplication1_opc\WindowsFormsApplication1_opc\obj\x86\Debug\WindowsFormsApplication1_opc.pdb
+c:\Projects\WindowsFormsApplication1_opc\WindowsFormsApplication1_opc\obj\x86\Debug\Interop.OpcEnumLib.dll
+c:\Projects\WindowsFormsApplication1_opc\WindowsFormsApplication1_opc\obj\x86\Debug\WindowsFormsApplication1_opc.csproj.ResolveComReference.cache
+c:\Projects\WindowsFormsApplication1_opc\WindowsFormsApplication1_opc\obj\x86\Debug\WindowsFormsApplication1_opc.exe
+c:\Projects\WindowsFormsApplication1_opc\WindowsFormsApplication1_opc\obj\x86\Debug\WindowsFormsApplication1_opc.pdb
+c:\Projects\WindowsFormsApplication1_opc\WindowsFormsApplication1_opc\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\Projects\WindowsFormsApplication1_opc\WindowsFormsApplication1_opc\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+c:\Projects\WindowsFormsApplication1_opc\WindowsFormsApplication1_opc\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\Projects\WindowsFormsApplication1_opc\WindowsFormsApplication1_opc\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\Projects\WindowsFormsApplication1_opc\WindowsFormsApplication1_opc\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\Projects\WindowsFormsApplication1_opc\WindowsFormsApplication1_opc\bin\Debug\WindowsFormsApplication1_opc.exe
+c:\Projects\WindowsFormsApplication1_opc\WindowsFormsApplication1_opc\bin\Debug\WindowsFormsApplication1_opc.pdb
+D:\c#\Projects\WindowsFormsApplication1_opc\WindowsFormsApplication1_opc\obj\x86\Debug\Interop.OpcEnumLib.dll
+D:\c#\Projects\WindowsFormsApplication1_opc\WindowsFormsApplication1_opc\obj\x86\Debug\WindowsFormsApplication1_opc.csproj.ResolveComReference.cache
+D:\c#\Projects\WindowsFormsApplication1_opc\WindowsFormsApplication1_opc\obj\x86\Debug\WindowsFormsApplication1_opc.exe
+D:\c#\Projects\WindowsFormsApplication1_opc\WindowsFormsApplication1_opc\obj\x86\Debug\WindowsFormsApplication1_opc.pdb
+D:\c#\Projects\WindowsFormsApplication1_opc\WindowsFormsApplication1_opc\bin\Debug\WindowsFormsApplication1_opc.exe
+D:\c#\Projects\WindowsFormsApplication1_opc\WindowsFormsApplication1_opc\bin\Debug\WindowsFormsApplication1_opc.pdb
+D:\c#\Projects\WindowsFormsApplication1_opc\WindowsFormsApplication1_opc\obj\x86\Debug\WindowsFormsApplication1_opc.csprojResolveAssemblyReference.cache
+D:\c#\Projects\WindowsFormsApplication1_opc\WindowsFormsApplication1_opc\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\c#\Projects\WindowsFormsApplication1_opc\WindowsFormsApplication1_opc\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\c#\Projects\WindowsFormsApplication1_opc\WindowsFormsApplication1_opc\obj\x86\Debug\WindowsFormsApplication1_opc.csproj.GenerateResource.Cache
+D:\c#\WindowsFormsApplication1_opc\WindowsFormsApplication1_opc\obj\x86\Debug\Interop.OpcEnumLib.dll
+D:\c#\WindowsFormsApplication1_opc\WindowsFormsApplication1_opc\obj\x86\Debug\WindowsFormsApplication1_opc.csproj.ResolveComReference.cache
+D:\c#\WindowsFormsApplication1_opc\WindowsFormsApplication1_opc\obj\x86\Debug\WindowsFormsApplication1_opc.csprojResolveAssemblyReference.cache
+D:\c#\WindowsFormsApplication1_opc\WindowsFormsApplication1_opc\obj\x86\Debug\WindowsFormsApplication1_opc.csproj.GenerateResource.Cache
+D:\c#\WindowsFormsApplication1_opc\WindowsFormsApplication1_opc\obj\x86\Debug\ReadValues.Form1.resources
+D:\c#\WindowsFormsApplication1_opc\WindowsFormsApplication1_opc\bin\Debug\ReadValues.exe
+D:\c#\WindowsFormsApplication1_opc\WindowsFormsApplication1_opc\bin\Debug\ReadValues.pdb
+D:\c#\WindowsFormsApplication1_opc\WindowsFormsApplication1_opc\obj\x86\Debug\ReadValues.Properties.Resources.resources
+D:\c#\WindowsFormsApplication1_opc\WindowsFormsApplication1_opc\obj\x86\Debug\ReadValues.exe
+D:\c#\WindowsFormsApplication1_opc\WindowsFormsApplication1_opc\obj\x86\Debug\ReadValues.pdb
+D:\c#\WindowsFormsApplication1_opc\WindowsFormsApplication1_opc\bin\Debug\ReadValues.exe.manifest
+D:\c#\WindowsFormsApplication1_opc\WindowsFormsApplication1_opc\bin\Debug\ReadValues.application
+D:\c#\WindowsFormsApplication1_opc\WindowsFormsApplication1_opc\obj\x86\Debug\ReadValues.TrustInfo.xml
+D:\c#\WindowsFormsApplication1_opc\WindowsFormsApplication1_opc\obj\x86\Debug\ReadValues.exe.manifest
+D:\c#\WindowsFormsApplication1_opc\WindowsFormsApplication1_opc\obj\x86\Debug\ReadValues.application
+C:\Users\mullagalievan\Documents\Visual Studio 2010\Projects\ReadValues\WindowsFormsApplication1_opc\obj\x86\Debug\Interop.OpcEnumLib.dll
+C:\Users\mullagalievan\Documents\Visual Studio 2010\Projects\ReadValues\WindowsFormsApplication1_opc\obj\x86\Debug\WindowsFormsApplication1_opc.csproj.ResolveComReference.cache
+C:\Users\mullagalievan\Documents\Visual Studio 2010\Projects\ReadValues\WindowsFormsApplication1_opc\obj\x86\Debug\ReadValues.exe
+C:\Users\mullagalievan\Documents\Visual Studio 2010\Projects\ReadValues\WindowsFormsApplication1_opc\obj\x86\Debug\ReadValues.pdb
+C:\Users\mullagalievan\Documents\Visual Studio 2010\Projects\ReadValues\WindowsFormsApplication1_opc\bin\Debug\ReadValues.exe.manifest
+C:\Users\mullagalievan\Documents\Visual Studio 2010\Projects\ReadValues\WindowsFormsApplication1_opc\bin\Debug\ReadValues.application
+C:\Users\mullagalievan\Documents\Visual Studio 2010\Projects\ReadValues\WindowsFormsApplication1_opc\bin\Debug\ReadValues.exe
+C:\Users\mullagalievan\Documents\Visual Studio 2010\Projects\ReadValues\WindowsFormsApplication1_opc\obj\x86\Debug\WindowsFormsApplication1_opc.csprojResolveAssemblyReference.cache
+C:\Users\mullagalievan\Documents\Visual Studio 2010\Projects\ReadValues\WindowsFormsApplication1_opc\obj\x86\Debug\ReadValues.Form1.resources
+C:\Users\mullagalievan\Documents\Visual Studio 2010\Projects\ReadValues\WindowsFormsApplication1_opc\obj\x86\Debug\ReadValues.Properties.Resources.resources
+C:\Users\mullagalievan\Documents\Visual Studio 2010\Projects\ReadValues\WindowsFormsApplication1_opc\obj\x86\Debug\WindowsFormsApplication1_opc.csproj.GenerateResource.Cache
+C:\Users\mullagalievan\Documents\Visual Studio 2010\Projects\ReadValues\WindowsFormsApplication1_opc\obj\x86\Debug\ReadValues.TrustInfo.xml
+C:\Users\mullagalievan\Documents\Visual Studio 2010\Projects\ReadValues\WindowsFormsApplication1_opc\obj\x86\Debug\ReadValues.exe.manifest
+C:\Users\mullagalievan\Documents\Visual Studio 2010\Projects\ReadValues\WindowsFormsApplication1_opc\obj\x86\Debug\ReadValues.application
